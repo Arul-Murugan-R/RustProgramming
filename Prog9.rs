@@ -1,3 +1,4 @@
+// Reverse a string in Rust
 use std::io;
 fn main(){
     println!("Enter the string to reverse : ");
